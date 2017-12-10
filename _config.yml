@@ -6,7 +6,7 @@ description: 欢迎来到我的个人站~
 avatarTitle: qingfenghong
 # 头像里面的描述
 avatarDesc: 嵌入式 / 音视频系统
-url: "http://qingfenghong.io"
+url: "http://qingfenghong.github.io"
 
 # Comment
 comment:
@@ -23,7 +23,7 @@ social:
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id:   
+    id: 2fd318c86e739dec800a5bab1a88b2a4  
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
